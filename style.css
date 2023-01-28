@@ -1,0 +1,138 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0px;
+}
+
+nav ul {
+    display: flex;
+    margin-top: 0px;
+}
+
+nav li {
+    list-style: none;
+    margin-right: 50px;
+}
+
+nav li a {
+    text-decoration: none;
+    font-size: large;
+
+}
+
+a:hover {
+    background-color: yellow;
+    padding: 10px;
+}
+
+.headimg {
+    display: flex;
+}
+
+.img {
+    padding-left: 100px;
+}
+
+.headd {
+    background-color: rgb(204, 236, 232);
+    margin-top: 0px;
+}
+
+.head {
+    padding-left: 35px;
+}
+
+
+.footer {
+    display: flex;
+    background-color: rgb(229, 246, 248);
+}
+
+.bulto {
+    text-align: center;
+}
+
+.footer2 {
+    display: flex;
+    padding-top: 50px;
+    border: 30px;
+    border-color: rgba(161, 153, 147, 0.137);
+    border-style: solid;
+}
+
+.steak {
+    border: 20px;
+    border-style: solid;
+    border-color: rgba(228, 201, 53, 0.479);
+
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 18px rgb(223, 94, 94);
+
+
+}
+
+.pope {
+    border: 20px;
+    border-style: solid;
+    border-color: rgba(92, 85, 89, 0.479);
+
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 18px rgb(236, 109, 109);
+}
+
+.pasta {
+    border: 20px;
+    border-style: solid;
+    border-color: rgba(238, 227, 167, 0.479);
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 18px rgb(235, 110, 110);
+
+
+}
+
+button {
+    background-color: rgba(243, 60, 234, 0.801);
+    border-radius: 12px;
+    background-color: #a60cc5;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    margin: 4px 2px;
+    cursor: pointer;
+
+}
+
+.last {
+    display: flex;
+
+
+    border: 20px;
+    border-style: solid;
+    border-color: rgba(238, 227, 167, 0.479);
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 18px rgb(235, 110, 110);
+
+
+}
+
+.Views {
+    padding-left: 50px;
+}
+
+footer {
+    align-items: center;
+    align-content: center;
+    padding-left: 300px;
+    padding-bottom: 20px;
+    padding-top: 50px;
+    background-color: rgb(212, 188, 188);
+    margin: 0px;
+
+}
